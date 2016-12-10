@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/adminpage.jsp=UTF-8
+encoding//src/BLL/admin_BLL.java=UTF-8
+encoding//src/Servlet/Login_Servlet.java=UTF-8
+encoding//src/Servlet/register_Servlet.java=UTF-8
